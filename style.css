@@ -267,6 +267,9 @@ ul {
 #cross {
     display: none;
 }
+#bob{
+    display: none;
+}
 
 /*media queries*/
 @media (max-width: 1400px) {
@@ -289,6 +292,7 @@ ul {
         display: inline;
     }
 }
+
 
 @media (max-width: 440px) {
     .left {
@@ -326,6 +330,19 @@ ul {
         width: 150px;
         text-wrap: wrap;
         overflow: hidden;
+    }
+    #arr{
+        display: none;
+    }
+    #bob{
+        margin-left: 20px;
+        display: inline;
+    }
+    .navBOB{
+        width: 0px;
+    }
+    .buttons{
+      display: none;
     }
 }
 
