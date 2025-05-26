@@ -1,0 +1,105 @@
+[
+  {
+    "folder": "Khaleja",
+    "meta": {
+      "title": "Khaleja",
+      "description": "A taxi driver turned savior."
+    },
+    "cover": "cover.jpg",
+    "songs": [
+      "Pileche-SenSongsMp3.Co.mp3",
+      "Sada Siva-SenSongsMp3.Co.mp3",
+      "Makathika-SenSongsMp3.Co.mp3",
+      "Bhoom Shakenaka-SenSongsMp3.Co.mp3",
+      "Taxi-SenSongsMp3.Co.mp3"
+      
+    ]
+  },
+
+   {
+    "folder": "Athadu",
+    "meta": {
+    "title": "Athadu",
+  "description": "Staring Mahesh Babu"
+    },
+    "cover": "cover.jpg",
+    "songs": [
+      "Adharaku-SenSongsMp3.Co.mp3",
+      "Chandamama-SenSongsMp3.Co.mp3",
+      "Pilichina-SenSongsMp3.Co.mp3",
+      "Neetho Cheppana-SenSongsMp3.Co.mp3",
+      "Avunu Nizam-SenSongsMp3.Co.mp3",
+      "Pillagali-SenSongsMp3.Co.mp3"
+     
+    ]
+  },
+ 
+
+  {
+    "folder": "pokiri",
+    "meta": {
+        "title": "Pokiri",
+  "description": "Staring Mahesh Babu and Ileana"
+    },
+    "cover": "cover.jpg",
+    "songs": [
+      "Gala Gala-SenSongsMp3.Co.mp3",
+      "Jagadame-SenSongsMp3.Co.mp3",
+      "Ippatikinka-SenSongsMp3.Co.mp3",
+      "Dole Dole-SenSongsMp3.Co.mp3",
+      "Devuda-SenSongsMp3.Co.mp3",
+      "Choododdu-SenSongsMp3.Co.mp3"
+      
+     
+    ]
+  },
+
+  {
+    "folder": "GunturKaaram",
+    "meta": {
+      "title": "Guntur Kaaram",
+      "description": "Starring Mahesh Babu with fiery music."
+    },
+    "cover": "cover.jpeg",
+    "songs": [
+      "Dum Masala.mp3",
+      "Oh My Baby.mp3",
+      "Ramana Aei.mp3",
+      "Mawaa Enthaina - Copy.mp3"
+    ]
+  },
+ 
+  
+  {
+    "folder": "1-Nenokkadine",
+    "meta": {
+     "title": "1-Nenokkadine",
+  "description": "Staring Mahesh Babu and music by DSP"
+    },
+    "cover": "cover.jpg",
+    "songs": [
+      "Who Are You-SenSongsMp3.Co.mp3",
+      "You Are My Love-SenSongsMp3.Co.mp3",
+      "O Sayonara Sayonara-SenSongsMp3.Co.mp3",
+      "London Babu London Babu-SenSongsMp3.Co.mp3",
+      ".Aww Tuzo Mogh Korta-SenSongsMp3.Comp3"
+    ]
+  },
+  {
+    "folder": "Businessman",
+    "meta": {
+      "title": "Businessman",
+      "description": "Starring Mahesh Babu as a gangster"
+    },
+    "cover": "cover.jpg",
+    "songs": [
+      "Sir Osthara-SenSongsMp3.Co.mp3",
+      "Pilla Chao-SenSongsMp3.Co.mp3",
+      "Chandamama-SenSongsMp3.Co.mp3",
+      "Mumbai-SenSongsMp3.Co.mp3"
+      
+    ]
+  }
+
+
+]

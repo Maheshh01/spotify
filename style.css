@@ -1,7 +1,13 @@
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Lexend+Giga:wght@307&family=Montserrat:wght@700&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family:"Lexend Giga", sans-serif;;
 }
 
 html,
@@ -91,12 +97,22 @@ ul {
 /*playlists section */
 
 .card {
+    
     width: 200px;
-    height: 290px;
+    height: 300px;
     padding: 8px;
+    font-size: small;
     border-radius: 4px;
     background-color: #000000;
     position: relative;
+  overflow: hidden;
+    
+
+}
+.card:hover{
+     transform: scale(1.02);
+     cursor: pointer;
+      transition: transform 0.3s ease;  
 }
 
 .card img {
@@ -115,6 +131,7 @@ ul {
     margin: 10px 0px 0px 10px;
     max-height: 80vh;
     overflow-y: scroll;
+    padding-top: 10px;
 }
 
 .play {
@@ -146,6 +163,8 @@ ul {
     display: flex;
     flex-direction: column;
     gap: 8px;
+    padding-top: 2px;
+    border-radius: 4px;
 }
 
 /* Seekbar on top */
@@ -192,6 +211,7 @@ ul {
     list-style-position: inside;
     background-color: #2d2d2d;
     padding: 5px 2px 5px 5px;
+    margin-top: 8px;
     border-radius: 5px;
     list-style-type: decimal;
     transition: all ease 0.9ms;
@@ -286,4 +306,28 @@ ul {
         overflow-wrap: break-word;
 
     }
+}
+
+@media (max-width: 380px) {
+    .card {
+        width: 100px;
+        height: 200px;
+        font-size:x-small;
+    }
+    .bottom .footer{
+        bottom: 0px;
+        font-size: x-small;
+    }
+    .cardContainer{
+        padding-bottom: 100px;
+    }
+    .controls .songinfo{
+        width: 150px;
+        text-wrap: wrap;
+        overflow: hidden;
+    }
+}
+
+.spotifyPlaylists{
+    padding-left: 50px;
 }
